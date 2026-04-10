@@ -4,3 +4,6 @@ pip install reportlab pandas openpyxl
 #How to run the script:
 see prototype.mp4 vedio attached to the repo
 
+test.py -> certificate generation and sending automated email
+main.py -> certificate generation and saving to the divice
+
